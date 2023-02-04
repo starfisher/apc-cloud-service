@@ -14,7 +14,6 @@
         <module>apc-common</module>
     </modules>
 
-
     <packaging>pom</packaging>
     <groupId>cn.conchit</groupId>
     <artifactId>apc-cloud-service</artifactId>
